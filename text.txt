@@ -1,1 +1,1 @@
-This is a Low Level design Sample problems.
+This is a folder which consist of Go basic and advance concepts with code and explanation
