@@ -1,1 +1,1 @@
-This is a folder which consist of Go basic and advance concepts with code and explanation
+This is a folder which consist of Go basic and advance concepts with code and explanation.
